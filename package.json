@@ -2,6 +2,7 @@
   "name": "action-pages",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://cgxdd.github.io/action-pages",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -10,7 +11,7 @@
   },
   "scripts": {
     "start": "set PORT=1000 && craco start",
-    "build": "react-scripts build",
+    "build": "craco build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
