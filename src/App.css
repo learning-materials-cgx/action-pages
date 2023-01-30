@@ -1,0 +1,10 @@
+ul, li {
+  list-style: none;
+}
+
+.header{
+  display: flex;
+  background-color: aliceblue;
+  padding: 30px 10%;
+  align-items: baseline;
+}
