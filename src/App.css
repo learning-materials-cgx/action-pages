@@ -3,7 +3,7 @@ ul, li {
 }
 
 .header{
-  display: flex;
+  text-align: center;
   background-color: aliceblue;
   padding: 30px 10%;
   align-items: baseline;
